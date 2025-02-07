@@ -1,0 +1,8 @@
+[debug] > Exec(package, None, None)
+[debug] Evaluating tasks: Compile / package
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\chiar\IdeaProjects\ScalableProject\target\scala-2.12\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[success] Total time: 15 s, completed 7 feb 2025, 10:59:59
+[debug] > Exec(idea-shell, None, None)

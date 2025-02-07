@@ -1,0 +1,9 @@
+[debug] Packaging C:\Users\chiar\IdeaProjects\ScalableProject\target\scala-2.12\scalableproject_2.12-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	Analisi$.class
+[debug] 	  C:\Users\chiar\IdeaProjects\ScalableProject\target\scala-2.12\classes\Analisi$.class
+[debug] 	Analisi$delayedInit$body.class
+[debug] 	  C:\Users\chiar\IdeaProjects\ScalableProject\target\scala-2.12\classes\Analisi$delayedInit$body.class
+[debug] 	Analisi.class
+[debug] 	  C:\Users\chiar\IdeaProjects\ScalableProject\target\scala-2.12\classes\Analisi.class
+[debug] Done packaging.
