@@ -33,7 +33,7 @@ gcloud storage buckets create gs://bucket-scp --location=us-central1
   ```
   gcloud storage cp PathFile/order_products.csv gs://bucket-scp/
   ```
-
+  
 ---
 
 ## **Configurazione e avvio del cluster**  
@@ -75,7 +75,6 @@ gcloud storage buckets create gs://bucket-scp --location=us-central1
   gsutil cat gs://bucket-scp/co_purchase_results_2worker/part-* | gsutil cp - gs://bucket-scp/co_purchase_results_2worker/combined_output.csv
   gsutil rm gs://bucket-scp/co_purchase_results_2worker/part-*  
   ``` 
-  ```
 
 ### **Cluster con 3 Worker**  
 - Creazione del cluster con 3 nodi:  
